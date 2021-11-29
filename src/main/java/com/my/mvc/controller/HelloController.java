@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping(value = "/")
     public String index(){
-        //返回视图名称
+        //返回视图名称d
         return "index";
     }
 }
